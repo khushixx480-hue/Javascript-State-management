@@ -1,0 +1,2 @@
+Fetch Products
+Fetch Categories
